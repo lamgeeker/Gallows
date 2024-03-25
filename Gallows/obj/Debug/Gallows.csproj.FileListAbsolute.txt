@@ -1,0 +1,7 @@
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\bin\Debug\Gallows.exe.config
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\bin\Debug\Gallows.exe
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\bin\Debug\Gallows.pdb
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\obj\Debug\Gallows.csproj.AssemblyReference.cache
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\obj\Debug\Gallows.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\obj\Debug\Gallows.exe
+C:\Users\Dream Machines\Desktop\C# Projects\Gallows\Gallows\Gallows\obj\Debug\Gallows.pdb
